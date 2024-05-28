@@ -1,0 +1,3 @@
+Para poder visualizar los codigos es necesario que se tenga instalado jupyter lab, en caso de 
+que no posean esta app, pueden visualizar los codigos en formato pdf y copiar en algun compilador
+que admita lenguaje de programacion python
